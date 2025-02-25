@@ -1,4 +1,4 @@
-יצירת אתר אינטרנט בעזרת גיטהב
+# יצירת אתר אינטרנט בעזרת גיטהב
 
 
 
@@ -28,4 +28,4 @@
 ```
 
 
-* GitHub
+Creating websites using GitHub Actions - part 1
