@@ -1,7 +1,7 @@
 # Summary
 
 - [מביני גיט](./index.md)
-    - [גיט](./git.md)
+  - [גיט](./git.md)
     - [גיט: למה להישתמש בניהול גירסאות?](./git-why-use-version-control.md)
     - [הורדת והתקנת גיט](./git-download-and-install-git.md)
     - [קונפיגורציה בסיסית של גיט](./git-configuration.md)
@@ -20,3 +20,19 @@
     - [שינוים מקומיים על המחשב שלך](./git-make-some-local-changes.md)
     - [דחיפת שינוים מקומיים החוצה למאגר בענן (push, pull-request)](./git-push-out-local-changes-to-remote-repo.md)
     - [שינוים מקומיים נוספים. עדכון הפול-רקווסט עם השינוים החדשים](./git-more-changes-update-pr.md)
+  - [פיתוח שיתופי - תרומה הראשונה לקוד פתוח](./collab-dev.md)
+    - [מי כותב תוכנה חפשית ולמה כדי גם לך?](./collab-dev-open-source-contribution-who-and-why.md)
+    - [הטכנולוגיות לעבודה משותפת על פרויקטי תוכנה](./collab-dev-stack.md)
+    - [הרשמה בגיטהאב](./collab-dev-register-on-github.md)
+    - [הקטוברפסט](./collab-dev-hacktoberfest.md)
+    - [עריכת קבצים באתר של גיטהאב](./collab-dev-github-onsite-editing-drawing.md)
+    - [עריכת קובץ ראדמה באתר של גיטהאב](./collab-dev-edit-the-readme-file.md)
+    - [עריכת קובץ CSV באתר גיטהאב](./collab-dev-edit-csv-file.md)
+    - [עריכת קבצים מחוץ לאתר גיטהאב](./collab-dev-github-offsite-editing-drawing.md)
+    - [גיט למשתמשי גיטהאב](./collab-dev-git.md)
+    - [עריכת קובץ JSON](./collab-dev-edit-json-file.md)
+    - [איך לעדכן את האתר של מביני קוד?](./collab-dev-update-code-maven-site.md)
+    - [קוד ודיבורים](./collab-dev-code-and-talk.md)
+    - [אחלה למתחילים](./collab-dev-awesome-for-beginners.md)
+    - [עבודה על המערכת של פיידיגר (PyDigger)](./collab-dev-pydigger.md)
+
