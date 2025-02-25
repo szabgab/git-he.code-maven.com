@@ -10,21 +10,21 @@
 
 
 ```markdown
-{{#include ../examples/cm-demo.github.io/README.md}
+{{#include ../examples/cm-demo.github.io/README.md}}
 ```
 
 
 ```markdown
-{{#include ../examples/cm-demo.github.io/docs/index.md}
+{{#include ../examples/cm-demo.github.io/docs/index.md}}
 ```
 
 
 ```markdown
-{{#include ../examples/cm-demo.github.io/docs/about.md}
+{{#include ../examples/cm-demo.github.io/docs/about.md}}
 ```
 
 ```yaml
-{{#include ../examples/cm-demo.github.io/docs/_config.yml}
+{{#include ../examples/cm-demo.github.io/docs/_config.yml}}
 ```
 
 

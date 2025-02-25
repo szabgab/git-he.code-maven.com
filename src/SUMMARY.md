@@ -35,7 +35,7 @@
     - [קוד ודיבורים](./collab-dev-code-and-talk.md)
     - [אחלה למתחילים](./collab-dev-awesome-for-beginners.md)
     - [עבודה על המערכת של פיידיגר (PyDigger)](./collab-dev-pydigger.md)
-
+  - [גיטהאב](./github.md)
     - [יצירת אתר אינטרנט בעזרת גיטהב](./create-github-pages-on-github.md)
     - [יצירת אתרים בגיטהב בעזרת גיטהב אקשינס פרק א](./create-github-pages-using-github-actions-part-1.md)
     - [יצירת אתרים בגיטהב בעזרת גיטהב אקשינס פרק ב](./create-github-pages-using-github-actions-part-2.md)
