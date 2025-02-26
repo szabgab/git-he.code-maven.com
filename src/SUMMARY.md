@@ -1,5 +1,6 @@
 # Summary
 
+
 - [מביני גיט](./index.md)
   - [גיט](./git.md)
     - [גיט: למה להישתמש בניהול גירסאות?](./git-why-use-version-control.md)
@@ -42,3 +43,4 @@
     - [דיווח תקלות באתר גיטהב](./reporting-issues-on-github-for-perladvent.md)
     - [יצירת אתר וואב על דפי גיטהאב ללא תכנות](./creating-a-website-on-github-pages-using-markdown.md)
     - [איך מתחילים להשתמש בגיט על מחשב ווינדוס](./getting-started-with-git-on-windows-with-ssh.md)
+  - [העלאת פרויקט לגיטהאב](./creating-project-on-github.md)
