@@ -5,4 +5,18 @@ language = "he"
 src = "src"
 title = "מביני גיט, גיטהאב, גיטלאב"
 
+# Add github icon to the menu
+[output.html]
+git-repository-url = "https://github.com/szabgab/git-he.code-maven.com"
+git-repository-icon = "fa-github"
+
+# Remove the printer icon from the menu
+[output.html.print]
+enable = false
+
+
+# Handle Youtube video embedding and the footer
 [preprocessor.embedify]
+footer.enable = true
+footer.message = "Copyright © 2025 • Created with ❤️  by [Gábor Szabó](https://szabgab.com/)"
+
