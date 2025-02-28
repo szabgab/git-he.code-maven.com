@@ -2,6 +2,7 @@
 
 
 - [מביני גיט](./index.md)
+
   - [גיט](./git.md)
     - [גיט: למה להישתמש בניהול גירסאות?](./git-why-use-version-control.md)
     - [הורדת והתקנת גיט](./git-download-and-install-git.md)
@@ -21,6 +22,7 @@
     - [שינוים מקומיים על המחשב שלך](./git-make-some-local-changes.md)
     - [דחיפת שינוים מקומיים החוצה למאגר בענן (push, pull-request)](./git-push-out-local-changes-to-remote-repo.md)
     - [שינוים מקומיים נוספים. עדכון הפול-רקווסט עם השינוים החדשים](./git-more-changes-update-pr.md)
+
   - [פיתוח שיתופי - תרומה הראשונה לקוד פתוח](./collab-dev.md)
     - [מי כותב תוכנה חפשית ולמה כדי גם לך?](./collab-dev-open-source-contribution-who-and-why.md)
     - [הטכנולוגיות לעבודה משותפת על פרויקטי תוכנה](./collab-dev-stack.md)
@@ -36,6 +38,7 @@
     - [קוד ודיבורים](./collab-dev-code-and-talk.md)
     - [אחלה למתחילים](./collab-dev-awesome-for-beginners.md)
     - [עבודה על המערכת של פיידיגר (PyDigger)](./collab-dev-pydigger.md)
+
   - [גיטהאב](./github.md)
     - [יצירת אתר אינטרנט בעזרת גיטהב](./create-github-pages-on-github.md)
     - [יצירת אתרים בגיטהב בעזרת גיטהב אקשינס פרק א](./create-github-pages-using-github-actions-part-1.md)
@@ -43,4 +46,5 @@
     - [דיווח תקלות באתר גיטהב](./reporting-issues-on-github-for-perladvent.md)
     - [יצירת אתר וואב על דפי גיטהאב ללא תכנות](./creating-a-website-on-github-pages-using-markdown.md)
     - [איך מתחילים להשתמש בגיט על מחשב ווינדוס](./getting-started-with-git-on-windows-with-ssh.md)
+
   - [העלאת פרויקט לגיטהאב](./creating-project-on-github.md)
