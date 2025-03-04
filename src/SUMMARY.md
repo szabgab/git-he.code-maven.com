@@ -48,3 +48,4 @@
     - [איך מתחילים להשתמש בגיט על מחשב ווינדוס](./getting-started-with-git-on-windows-with-ssh.md)
 
   - [העלאת פרויקט לגיטהאב](./creating-project-on-github.md)
+  - [איך גיט עובד באמת? הרצאה של אאור שרף](./git-is-a-great-design.md)
