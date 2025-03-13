@@ -5,3 +5,11 @@
 
 
 Getting started with Git on Windows with ssh
+
+
+* https://szabgab.github.io/github-pages-demo-2025-02-07/
+* https://github.com/szabgab/github-pages-demo-2025-02-07
+* [Git](https://git-scm.com/)
+* [VS Code](https://code.visualstudio.com/)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
+
