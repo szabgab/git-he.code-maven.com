@@ -49,3 +49,5 @@
 
   - [העלאת פרויקט לגיטהאב](./creating-project-on-github.md)
   - [איך גיט עובד באמת? הרצאה של אאור שרף](./git-is-a-great-design.md)
+  - [איך לבחור פרויקט קוד פתוח כדי להצטרף אליו?](./how-to-pick-an-open-source-project-to-contribute-to-maakaf.md)
+
