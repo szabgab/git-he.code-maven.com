@@ -28,4 +28,4 @@
 ```
 
 
-Creating websites using GitHub Actions - part 1
+Creating websites using GitHub Pages and GitHub Actions (Workflows) - part 1
